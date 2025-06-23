@@ -3,6 +3,7 @@
 ---
 
 ## ⏱ tm : Minimalistic Terminal-based timer.
+![Timer preview](screenshot.png)
 
 ### ✅ Features
 

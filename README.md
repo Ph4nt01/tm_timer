@@ -3,7 +3,6 @@
 ---
 
 ## ⏱ tm : Minimalistic Terminal-based timer.
-![Timer preview](screenshot.png)
 
 ### ✅ Features
 
@@ -28,7 +27,7 @@ pipx ensurepath             #to add tm to PATH
 exec $SHELL                 #to reset shell
 
 ```
-
+![Timer preview](screenshot.png)
 
 
 

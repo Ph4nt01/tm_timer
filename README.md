@@ -1,24 +1,35 @@
 # In The Name of God
 
-## tm ⏱ Terminal Timer
+---
+
+## ⏱ tm
 
 Minimalistic Terminal-based timer.
 
-## Install
+### ✅ Features
+
+- Run from terminal: `tm 10s`, `tm 25m`, `tm 1h30m`
+- Press `p` to pause/resume
+- Press `q` to quit early
+- Supports human durations like `2h45m30s`
+- Simple, no graphical BLOAT.
+
+---
+
+## 📦 Installation
 
 ```bash
-pip install git+https://github.com/Ph4nt01/timer.git
-```
 
-## Usage
+sudo apt install pipx       #if not installed
 
-```bash
-tm 10s
-tm 25m
-tm 1h30m45s
+pipx install tm-timer       #to install tm-timer
 
-p — Pause/Resume
-q — Quit early
+pipx ensurepath             #to add tm to PATH
+
+exec $SHELL                 #to reset shell
 
 ```
+
+
+
 

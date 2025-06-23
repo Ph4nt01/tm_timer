@@ -4,7 +4,7 @@
 
 ## ⏱ tm : Minimalistic Terminal-based timer.
 
-### Features
+### Features:
 
 - Run from terminal: `tm 10s`, `tm 25m`, `tm 1h30m`
 - Press `p` to pause/resume
@@ -14,7 +14,7 @@
 
 ---
 
-### Installation
+### Installation:
 
 ```bash
 
@@ -29,7 +29,7 @@ exec $SHELL                 #to reset shell
 ```
 ---
 
-tm preview:
+### ⏱ tm preview:
 
 ![Timer preview](screenshot.png)
 

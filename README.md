@@ -2,9 +2,7 @@
 
 ---
 
-## ⏱ tm
-
-Minimalistic Terminal-based timer.
+## ⏱ tm : Minimalistic Terminal-based timer.
 
 ### ✅ Features
 

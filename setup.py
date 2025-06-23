@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="timer",
-    version="1.0.0",
+    name="tm-timer",
+    version="1.0.1",
     packages=find_packages(),
     entry_points={
         "console_scripts": [
-            "tm = timer.cli:entry"
+            "tm = tm_timer.cli:entry"
         ]
     },
     description="Terminal timer with pause/resume and alert",

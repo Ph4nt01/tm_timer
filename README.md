@@ -16,7 +16,7 @@ Minimalistic Terminal-based timer.
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 
 ```bash
 

@@ -2,7 +2,7 @@
 
 ---
 
-## ⏱ tm : Minimalistic Terminal-based timer with Study/Train tracking
+## ⏱️ tm : Minimalistic Terminal timer with Study session tracking
 
 ### Features
 
@@ -94,13 +94,11 @@ tm --tables
 
 ---
 
-### ⏱ Preview
+### Preview
 
 
 ![Timer preview](demo1.gif)
+
 ![Timer preview](demo2.gif)
+
 ![Timer preview](demo3.gif)
-
-```
-```
-

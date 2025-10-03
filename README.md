@@ -1,7 +1,8 @@
 # In The Name of God
 
 ---
-# ⏱️ tm : Minimalistic Terminal timer with Study session tracking
+# ⏱️ tm-timer
+>Minimalistic Terminal timer with Study session tracking
 
 ## Features
 

@@ -1,10 +1,9 @@
 # In The Name of God
 
 ---
+# ⏱️ tm : Minimalistic Terminal timer with Study session tracking
 
-## ⏱️ tm : Minimalistic Terminal timer with Study session tracking
-
-### Features
+## Features
 
 - Countdown timer:
   - `tm 10s`, `tm 25m`, `tm 1h30m`
@@ -31,7 +30,7 @@
 
 ---
 
-### Installation
+## Installation
 
 ```bash
 sudo apt install pipx       # if not installed
@@ -42,7 +41,7 @@ exec $SHELL                 # reload shell
 
 ---
 
-### Example Usage
+## Example Usage
 
 ```bash
 # Start a study session
@@ -60,7 +59,7 @@ tm --tables
 
 ---
 
-### Example Tables Output
+## Example Tables Output
 
 ```markdown
 # tm_timer Tables
@@ -94,7 +93,7 @@ tm --tables
 
 ---
 
-### Preview
+## Preview
 
 
 ![Timer preview](demo1.gif)

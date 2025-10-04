@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tm-timer"
-version = "2.0"
+version = "2.1"
 description = "Minimalistic terminal-based timer with Study/Train tracking"
 readme = "README.md"
 authors = [{ name="Ph4nt01", email="ph4nt0.84@email.com" }]

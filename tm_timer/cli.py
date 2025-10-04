@@ -215,10 +215,10 @@ def run_activity(activity):
     stats_before = compute_stats_for_activity(activity)
     if stats_before["n"] >= 2:
         print(
-            f"[Before] [AVG] = {stats_before['avg']:.2f}h    [Standard Deviation of Time] = {stats_before['sd']:.2f}h    Status = {status_from_avg_sd(stats_before['avg'], stats_before['sd'])}"
+            f"[AVG] = {stats_before['avg']:.2f}h    [Standard Deviation of Time] = {stats_before['sd']:.2f}h    Status = {status_from_avg_sd(stats_before['avg'], stats_before['sd'])}"
         )
     else:
-        print("[Before] Not enough recordings to compute AVG/SD (need 2+ days).")
+        print("Not enough recordings to compute AVG/SD (need 2+ days).")
 
     # input listener thread
     def input_listener():
